@@ -1,0 +1,2 @@
+# gitstatuss
+Setting Up Git
